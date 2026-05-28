@@ -3,7 +3,7 @@
   <h1>Hi there, I'M ARNAV MOHANTY! 👋</h1>
   
   <a href="https://github.com/SuyashNayak">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=00C4CC&center=true&vCenter=true&width=500&lines=BTech+Data+Science+%26+CSE+Student;DATA+ANALYST+Enthusiast;Java+%26+Web+Developer" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=00C4CC&center=true&vCenter=true&width=500&lines=BTech+Data+Science+%26+CSE+Student;DATA+ANALYST+Enthusiast;PYTHON+%26+Web+Developer" alt="Typing Animation" />
   </a>
 </div>
 
